@@ -1,6 +1,6 @@
 # Siddharth Shah
 
-## 👨‍💻 Software Developer | Founder & CEO of SVECTOR
+## Founder & CEO of SVECTOR | 👨‍💻 Software Developer
 
 Welcome to my GitHub profile! I'm Siddharth Shah, a passionate software developer and entrepreneur dedicated to creating innovative solutions in the tech industry.
 
