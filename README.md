@@ -25,15 +25,14 @@ Welcome to my GitHub profile! I'm Siddharth Shah, a passionate software develope
 
 ### 🏢 SVECTOR
 
-[SVECTOR](https://www.svector.co.in)
-<br>
 Unleashing Possibilities Through Intelligent Systems
 
 
 ### 📫 Get in Touch
 
 - LinkedIn: [Siddharth shah](https://in.linkedin.com/in/siddharth-shah-a216612ba)
-- Website: [Website](https://svector-siddharth.netlify.app/)
+- Website: [SVECTOR](https://www.svector.co.in/)
+- SVECTOR Github: [SVECTOR](https://github.com/svector-corporation)
 
 ### 💼 Open for Opportunities
 
