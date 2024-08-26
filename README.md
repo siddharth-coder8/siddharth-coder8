@@ -32,7 +32,7 @@ Unleashing Possibilities Through Intelligent Systems
 
 - LinkedIn: [Siddharth shah](https://in.linkedin.com/in/siddharth-shah-a216612ba)
 - Website: [SVECTOR](https://www.svector.co.in/)
-- SVECTOR Github: [SVECTOR](https://github.com/svector-corporation)
+- [SVECTOR Github](https://github.com/svector-corporation)
 
 ### 💼 Open for Opportunities
 
