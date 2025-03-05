@@ -27,10 +27,6 @@ Unleashing Possibilities Through Intelligent Systems
 - SVECTOR Github: [SVECTOR-CORPORATION](https://github.com/svector-corporation)
 - 📧 Email: [Info@svector.co.in](mailto:Info@svector.co.in) | [team@svector.co.in](mailto:team@svector.co.in)
 
-### 💼 Open for Opportunities
-
-I'm always interested in new innovative projects. Feel free to reach out if you'd like to discuss potential opportunities or just want to connect!
-
 ---
 
 ⭐️ From [Siddharth-coder8](https://github.com/siddharth-coder8)
