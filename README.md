@@ -23,7 +23,7 @@ Our approach is centered around clarity, precision, and long-term impact.
 
 - Website: [svector.co.in](https://www.svector.co.in/)
 - GitHub: [github.com/svector-corporation](https://github.com/svector-corporation)
-- Models: [Spec-3.5](https://www.svector.co.in/directory/introducing-spec-3-5), [Spec-3](https://www.svector.co.in/models/spec-3), [Theta-35](https://www.svector.co.in/models/theta-35), [S2-Flash](https://www.svector.co.in/models/s2-flash), & more..
+- Models: [Spec-3.5](https://www.svector.co.in/directory/introducing-spec-3-5), [Spec-3](https://www.svector.co.in/models/spec-3), [Theta-35](https://www.svector.co.in/models/theta-35), [S2-Flash](https://www.svector.co.in/models/s2-flash), & [more..](https://www.svector.co.in/research/directory)
 
 ---
 
