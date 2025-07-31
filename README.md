@@ -2,7 +2,7 @@
 
 ## Founder & CEO — SVECTOR
 
-Welcome. I’m Siddharth Shah, I believe in the power of technology to solve meaningful problems and improve how we live and work.
+Hi. I’m Siddharth Shah, I believe in the power of technology to solve meaningful problems and improve how we live and work.
 
 ---
 
